@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">26ca09f4db1113004f2657935e961916</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>susithra.sundaresan@snc</sys_created_by>
+        <sys_created_on>2020-03-23 17:53:25</sys_created_on>
+        <sys_id>a7d9e164dbbf8410717e55535e961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="test_ny_prb126" source="x_snc_test_ny_prb1">386961e0dbbf8410717e55535e9619ba</sys_package>
+        <sys_updated_by>susithra.sundaresan@snc</sys_updated_by>
+        <sys_updated_on>2020-03-23 17:53:25</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
